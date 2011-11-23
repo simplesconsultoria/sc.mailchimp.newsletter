@@ -1,0 +1,7 @@
+<object name="portal_properties">
+  <object name="sc_mailchimp_newsletters_properties" meta_type="Plone Property Sheet">
+      <property name="apikey" type="string" purge="False" remove="True"></property>
+      <property name="ssl_enabled" type="boolean" remove="True">True</property>
+      <property name="debugmode" type="boolean" remove="True">False</property>      
+  </object>
+</object>

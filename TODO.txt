@@ -1,0 +1,10 @@
+- Add portlet to enable user subscription.
+- Add control Panel for administration of MailChimp and sc.mailchimp.newsletter.
+- Documentation.
+- Features
+    - Subscription, using full name and email.
+    - Account Details: Retrieve lots of account information including payments made, plan info, some account stats, installed modules, contact info, and etc.
+    - Show all of the lists defined for your user account.
+- Implement tests.
+- Generate egg package.
+- Implement additional API keys?

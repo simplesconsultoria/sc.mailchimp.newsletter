@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<action-icons xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+    i18n:domain="sc.mailchimp.newsletter">
+ <action-icon category="controlpanel"
+              action_id="mchimp"
+              title="Sc MailChimp" priority="0"
+              icon_expr="++resource++mc_images/ico-mchimp.png"
+              i18n:attributes="title"/>
+</action-icons>

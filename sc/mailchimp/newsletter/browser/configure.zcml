@@ -1,0 +1,13 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    i18n_domain="sc.mailchimp.newsletter">
+
+  <browser:resourceDirectory
+      name="mc_images"
+      directory="images"
+      layer="..interfaces.IMailChimpLayer"
+      permission="zope.Public"
+      />
+
+</configure>

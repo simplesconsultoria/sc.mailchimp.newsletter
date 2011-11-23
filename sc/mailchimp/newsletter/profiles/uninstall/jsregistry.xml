@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts" meta_type="JavaScripts Registry">
+
+ <!-- EXAMPLE (UNCOMMENT TO MAKE AVAILABLE):
+ <javascript id="something.js" remove="True" />
+ -->
+
+</object>

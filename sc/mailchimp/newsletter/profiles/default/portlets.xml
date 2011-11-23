@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<portlets>
+ <portlet
+   addview="sc.mailchimp.newsletter.portlet"
+   title="News Letter portlet"
+   />
+</portlets>
